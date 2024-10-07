@@ -1,6 +1,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lorraine-dev/BinderDemo/HEAD)
 
 
-image:: https://mybinder.org/badge_logo.svg
+Image:: https://mybinder.org/badge_logo.svg
 
-target: https://mybinder.org/v2/gh/lorraine-dev/BinderDemo/HEAD
+Binder target: https://mybinder.org/v2/gh/lorraine-dev/BinderDemo/HEAD
+
+GESIS Notebooks Link: https://notebooks.gesis.org/binder/v2/gh/lorraine-dev/BinderDemo/HEAD
